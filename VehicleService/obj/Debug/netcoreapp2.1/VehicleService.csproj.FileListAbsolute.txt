@@ -1,0 +1,21 @@
+C:\Users\Shivam\source\repos\VehicleService\VehicleService\obj\Debug\netcoreapp2.1\VehicleService.csprojAssemblyReference.cache
+C:\Users\Shivam\source\repos\VehicleService\VehicleService\obj\Debug\netcoreapp2.1\VehicleService.csproj.CoreCompileInputs.cache
+C:\Users\Shivam\source\repos\VehicleService\VehicleService\obj\Debug\netcoreapp2.1\VehicleService.AssemblyInfoInputs.cache
+C:\Users\Shivam\source\repos\VehicleService\VehicleService\obj\Debug\netcoreapp2.1\VehicleService.AssemblyInfo.cs
+C:\Users\Shivam\source\repos\VehicleService\VehicleService\bin\Debug\netcoreapp2.1\VehicleService.deps.json
+C:\Users\Shivam\source\repos\VehicleService\VehicleService\bin\Debug\netcoreapp2.1\VehicleService.runtimeconfig.json
+C:\Users\Shivam\source\repos\VehicleService\VehicleService\bin\Debug\netcoreapp2.1\VehicleService.runtimeconfig.dev.json
+C:\Users\Shivam\source\repos\VehicleService\VehicleService\bin\Debug\netcoreapp2.1\VehicleService.dll
+C:\Users\Shivam\source\repos\VehicleService\VehicleService\bin\Debug\netcoreapp2.1\VehicleService.pdb
+C:\Users\Shivam\source\repos\VehicleService\VehicleService\obj\Debug\netcoreapp2.1\VehicleService.dll
+C:\Users\Shivam\source\repos\VehicleService\VehicleService\obj\Debug\netcoreapp2.1\VehicleService.pdb
+D:\Documents\Conestoga work\Semester 1\Sofware Development Techniques (Allison)\Assignment\Github projects\VehicleService\VehicleService\bin\Debug\netcoreapp2.1\VehicleService.deps.json
+D:\Documents\Conestoga work\Semester 1\Sofware Development Techniques (Allison)\Assignment\Github projects\VehicleService\VehicleService\bin\Debug\netcoreapp2.1\VehicleService.runtimeconfig.json
+D:\Documents\Conestoga work\Semester 1\Sofware Development Techniques (Allison)\Assignment\Github projects\VehicleService\VehicleService\bin\Debug\netcoreapp2.1\VehicleService.runtimeconfig.dev.json
+D:\Documents\Conestoga work\Semester 1\Sofware Development Techniques (Allison)\Assignment\Github projects\VehicleService\VehicleService\bin\Debug\netcoreapp2.1\VehicleService.dll
+D:\Documents\Conestoga work\Semester 1\Sofware Development Techniques (Allison)\Assignment\Github projects\VehicleService\VehicleService\bin\Debug\netcoreapp2.1\VehicleService.pdb
+D:\Documents\Conestoga work\Semester 1\Sofware Development Techniques (Allison)\Assignment\Github projects\VehicleService\VehicleService\obj\Debug\netcoreapp2.1\VehicleService.csprojAssemblyReference.cache
+D:\Documents\Conestoga work\Semester 1\Sofware Development Techniques (Allison)\Assignment\Github projects\VehicleService\VehicleService\obj\Debug\netcoreapp2.1\VehicleService.AssemblyInfoInputs.cache
+D:\Documents\Conestoga work\Semester 1\Sofware Development Techniques (Allison)\Assignment\Github projects\VehicleService\VehicleService\obj\Debug\netcoreapp2.1\VehicleService.AssemblyInfo.cs
+D:\Documents\Conestoga work\Semester 1\Sofware Development Techniques (Allison)\Assignment\Github projects\VehicleService\VehicleService\obj\Debug\netcoreapp2.1\VehicleService.dll
+D:\Documents\Conestoga work\Semester 1\Sofware Development Techniques (Allison)\Assignment\Github projects\VehicleService\VehicleService\obj\Debug\netcoreapp2.1\VehicleService.pdb
